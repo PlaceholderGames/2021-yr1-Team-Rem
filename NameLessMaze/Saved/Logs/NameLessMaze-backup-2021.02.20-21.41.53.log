@@ -1,0 +1,1253 @@
+﻿Log file open, 02/20/21 21:33:49
+LogInit: Display: Running engine for game: NameLessMaze
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.214880
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+[2021.02.20-21.33.50:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.20-21.33.50:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+[2021.02.20-21.33.50:360][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+[2021.02.20-21.33.50:363][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.20-21.33.50:363][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:363][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.20-21.33.50:364][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.20-21.33.50:365][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.20-21.33.50:365][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.20-21.33.50:365][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.20-21.33.50:365][  0]LogHAL: Display: Platform has ~ 16 GB [17022767104 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.20-21.33.50:366][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.20-21.33.50:366][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.20-21.33.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.20-21.33.50:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Scalability.ini]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.20-21.33.50:368][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Config/Windows/Engine.ini]
+[2021.02.20-21.33.50:368][  0]LogInit: Computer: DESKTOP-FFIV9CS
+[2021.02.20-21.33.50:368][  0]LogInit: User: ondra
+[2021.02.20-21.33.50:368][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.02.20-21.33.50:368][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.20-21.33.50:368][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.02.20-21.33.50:368][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.20-21.33.50:368][  0]LogMemory: Process Physical Memory: 124.36 MB used, 124.37 MB peak
+[2021.02.20-21.33.50:368][  0]LogMemory: Process Virtual Memory: 117.41 MB used, 117.41 MB peak
+[2021.02.20-21.33.50:368][  0]LogMemory: Physical Memory: 7745.74 MB used,  8488.43 MB free, 16234.18 MB total
+[2021.02.20-21.33.50:369][  0]LogMemory: Virtual Memory: 5196.62 MB used,  134212528.00 MB free, 134217728.00 MB total
+[2021.02.20-21.33.50:374][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.20-21.33.50:432][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.20-21.33.50:433][  0]LogInit: Using OS detected language (en-GB).
+[2021.02.20-21.33.50:433][  0]LogInit: Using OS detected locale (en-GB).
+[2021.02.20-21.33.50:436][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.02.20-21.33.50:628][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.20-21.33.50:658][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.20-21.33.50:658][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.20-21.33.50:870][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.20-21.33.50:870][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.20-21.33.50:870][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.20-21.33.50:987][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 with Max-Q Design' (Feature Level 11_0)
+[2021.02.20-21.33.50:987][  0]LogD3D11RHI:       8010/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.02.20-21.33.51:015][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.02.20-21.33.51:015][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.02.20-21.33.51:018][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.20-21.33.51:019][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.20-21.33.51:019][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.20-21.33.51:026][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.20-21.33.51:026][  0]LogD3D11RHI:     GPU DeviceId: 0x1ed0 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.20-21.33.51:026][  0]LogWindows: EnumDisplayDevices:
+[2021.02.20-21.33.51:026][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.02.20-21.33.51:027][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.02.20-21.33.51:027][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.02.20-21.33.51:027][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 with Max-Q Design' (P:0 D:0)
+[2021.02.20-21.33.51:028][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 with Max-Q Design' (P:0 D:0)
+[2021.02.20-21.33.51:028][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 with Max-Q Design' (P:0 D:0)
+[2021.02.20-21.33.51:028][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 with Max-Q Design' (P:0 D:0)
+[2021.02.20-21.33.51:028][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.02.20-21.33.51:029][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 with Max-Q Design
+[2021.02.20-21.33.51:029][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.02.20-21.33.51:029][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.02.20-21.33.51:029][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.02.20-21.33.51:112][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.20-21.33.51:113][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.20-21.33.51:113][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.20-21.33.51:134][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.20-21.33.51:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.20-21.33.51:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.20-21.33.51:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.20-21.33.51:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.20-21.33.51:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.20-21.33.51:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.20-21.33.51:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.20-21.33.51:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.20-21.33.51:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.20-21.33.51:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.20-21.33.51:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.20-21.33.51:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.20-21.33.51:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.20-21.33.51:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.20-21.33.51:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.20-21.33.51:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.20-21.33.51:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.20-21.33.51:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.20-21.33.51:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.20-21.33.51:621][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.20-21.33.51:629][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.20-21.33.51:686][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Intermediate/Shaders/WorkingDirectory/1852/).
+[2021.02.20-21.33.51:686][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ondra/AppData/Local/Temp/UnrealShaderWorkingDir/9A997F3443D8EFBC6ACD949DBF2A4556/'.
+[2021.02.20-21.33.51:686][  0]LogXGEController: Cleaning working directory: C:/Users/ondra/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.02.20-21.33.51:686][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.20-21.33.51:686][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.20-21.33.51:686][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.20-21.33.52:393][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.20-21.33.52:448][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/ondra/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.20-21.33.52:448][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ondra/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.02.20-21.33.52:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.20-21.33.52:448][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.20-21.33.52:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.20-21.33.52:448][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.20-21.33.52:458][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.20-21.33.52:458][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.20-21.33.52:458][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.20-21.33.52:459][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ondra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.20-21.33.52:459][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.20-21.33.52:459][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.20-21.33.52:507][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.20-21.33.52:507][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.20-21.33.52:533][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.02.20-21.33.52:750][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.20-21.33.52:855][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.20-21.33.52:856][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.20-21.33.52:856][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.20-21.33.52:856][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.20-21.33.52:856][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.20-21.33.52:870][  0]LogNetVersion: NameLessMaze 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2829512808)
+[2021.02.20-21.33.53:290][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000010C979F9C40), frame # 0
+[2021.02.20-21.33.53:290][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000010C98917D80), frame # 0
+[2021.02.20-21.33.53:291][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000010C98981E00), frame # 0
+[2021.02.20-21.33.53:329][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.032292 seconds
+[2021.02.20-21.33.53:334][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.02.20-21.33.53:334][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.02.20-21.33.53:334][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.20-21.33.53:838][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.20-21.33.53:844][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.20-21.33.54:136][  0]SourceControl: Source control is disabled
+[2021.02.20-21.33.55:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.20-21.33.55:363][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.20-21.33.55:363][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.20-21.33.55:409][  0]LogOcInput: OculusInput pre-init called
+[2021.02.20-21.33.55:653][  0]LogEngine: Initializing Engine...
+[2021.02.20-21.33.55:654][  0]LogHMD: Oculus plugin initialized. Version: 4.25.4-14469661+++UE4+Release-4.25, OVRPlugin: 1.44.0
+[2021.02.20-21.33.55:655][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.20-21.33.55:771][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.20-21.33.55:777][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.20-21.33.55:778][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000010C90A75600), frame # 0
+[2021.02.20-21.33.55:778][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000010C90A53880), frame # 0
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.20-21.33.55:800][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.20-21.33.55:800][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.20-21.33.55:800][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.20-21.33.55:821][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.20-21.33.55:821][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.20-21.33.56:498][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.20-21.33.56:501][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.20-21.33.56:503][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.20-21.33.56:503][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.20-21.33.56:504][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.20-21.33.56:505][  0]LogInit: FAudioDevice initialized.
+[2021.02.20-21.33.56:505][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.20-21.33.56:550][  0]LogDerivedDataCache: Saved boot cache 0.04s 79MB C:/Users/ondra/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.20-21.33.56:550][  0]LogInit: Texture streaming: Enabled
+[2021.02.20-21.33.56:568][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.20-21.33.56:568][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.20-21.33.56:578][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.20-21.33.56:614][  0]LogInit: Transaction tracking system initialized
+[2021.02.20-21.33.56:633][  0]BlueprintLog: New page: Editor Load
+[2021.02.20-21.33.56:700][  0]LocalizationService: Localization service is disabled
+[2021.02.20-21.33.56:841][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.20-21.33.56:842][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.20-21.33.56:960][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Content/' took 0.01s
+[2021.02.20-21.33.57:167][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.881
+[2021.02.20-21.33.57:167][  0]Cmd: MAP LOAD FILE="C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.20-21.33.57:168][  0]LogEditorServer: Warning: Can't find file 'C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.02.20-21.33.57:168][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.20-21.33.57:168][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2021.02.20-21.33.57:168][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2021.02.20-21.33.57:170][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.883
+[2021.02.20-21.33.57:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.33.57:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.33.57:334][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.33.57:342][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.33.57:352][  0]LogCollectionManager: Loaded 0 collections in 0.000865 seconds
+[2021.02.20-21.33.57:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Saved/Collections/' took 0.00s
+[2021.02.20-21.33.57:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Content/Developers/ondra/Collections/' took 0.00s
+[2021.02.20-21.33.57:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Content/Collections/' took 0.00s
+[2021.02.20-21.33.57:367][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3454 classes and 830 folders.
+[2021.02.20-21.33.57:369][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.20-21.33.57:442][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.20-21.33.57:445][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.02.20-21.33.57:538][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.20-21.33.57:541][  0]LogSlate: Took 0.000740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.20-21.33.57:548][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.20-21.33.57:622][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2021.02.20-21.33.57:749][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.20-21.33.57:749][  0]LogLoad: (Engine Initialization) Total time: 9.46 seconds
+[2021.02.20-21.33.57:749][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.20-21.33.57:769][  0]LogOcInput: OculusInput is initialized
+[2021.02.20-21.33.57:805][  0]LogAssetRegistry: Asset discovery search completed in 5.2730 seconds
+[2021.02.20-21.33.57:809][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.02.20-21.33.57:811][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.20-21.33.57:886][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.20-21.34.03:807][351]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.20-21.34.03:944][351]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Sandbox.Sandbox
+[2021.02.20-21.34.03:957][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.20-21.34.03:958][351]Cmd: MAP LOAD FILE="C:/Users/ondra/Documents/Projects/UE4/2021-yr1-Team-Rem/NameLessMaze/Content/Maps/Sandbox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.20-21.34.03:958][351]LightingResults: New page: Lighting Build
+[2021.02.20-21.34.03:959][351]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.02.20-21.34.03:959][351]LoadErrors: New page: Loading map: Sandbox.umap
+[2021.02.20-21.34.03:959][351]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.20-21.34.03:959][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.34.03:959][351]MapCheck: New page: Map Check
+[2021.02.20-21.34.03:959][351]LightingResults: New page: Lighting Build
+[2021.02.20-21.34.03:969][351]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000010C90A75600), frame # 351
+[2021.02.20-21.34.03:969][351]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000010C90A53880), frame # 351
+[2021.02.20-21.34.03:969][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.02.20-21.34.04:024][351]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.20-21.34.04:024][351]LogAIModule: Creating AISystem for world Sandbox
+[2021.02.20-21.34.04:025][351]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000010CCAB48A00), frame # 351
+[2021.02.20-21.34.04:025][351]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000010CB176F740), frame # 351
+[2021.02.20-21.34.04:038][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.02.20-21.34.04:058][351]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.20-21.34.04:058][351]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2021.02.20-21.34.04:058][351]LogFileHelpers: Loading map 'Sandbox' took 0.100
+[2021.02.20-21.34.36:471][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.02.20-21.34.41:581][594]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.20-21.34.41:612][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.20-21.34.41:612][594]LogHMD: Initializing OVRPlugin session
+[2021.02.20-21.34.42:812][594]LogHMD: Allocating Oculus 3712 x 1872 rendertarget swapchain
+[2021.02.20-21.34.42:834][594]PIE: New page: PIE session: Sandbox (20 Feb 2021, 21:34:42)
+[2021.02.20-21.34.42:839][594]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.20-21.34.42:844][594]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.20-21.34.42:844][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.34.42:847][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002440s)
+[2021.02.20-21.34.42:848][594]LogAIModule: Creating AISystem for world Sandbox
+[2021.02.20-21.34.42:848][594]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000010CCB45AC00), frame # 2594
+[2021.02.20-21.34.42:848][594]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000010CB17287C0), frame # 2594
+[2021.02.20-21.34.42:848][594]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2021.02.20-21.34.42:848][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Sandbox.Sandbox to /Game/Maps/UEDPIE_0_Sandbox.Sandbox (0.003713s)
+[2021.02.20-21.34.42:858][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.20-21.34.42:861][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.20-21.34.42:861][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.20-21.34.42:861][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.20-21.34.42:861][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.20-21.34.42:861][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.20-21.34.42:861][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.20-21.34.42:861][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.20-21.34.42:861][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.20-21.34.42:861][594]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.20-21.34.42:862][594]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.20-21.34.42:867][594]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.20-21.34.42:867][594]LogAudioMixer: Display: 1: FrontRight
+[2021.02.20-21.34.42:884][594]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.20-21.34.42:884][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.20-21.34.42:885][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.20-21.34.42:885][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.20-21.34.42:885][594]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.20-21.34.42:901][594]LogInit: FAudioDevice initialized.
+[2021.02.20-21.34.43:318][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.20-21.34.43:321][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 60) at 2021.02.20-21.34.43
+[2021.02.20-21.34.43:321][594]LogWorld: Bringing up level for play took: 0.001326
+[2021.02.20-21.34.43:321][594]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.02.20-21.34.43:338][594]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.02.20-21.34.43:428][594]PIE: Server logged in
+[2021.02.20-21.34.43:429][594]PIE: Play in editor total start time 1.824 seconds.
+[2021.02.20-21.34.45:768][730]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.45:784][731]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.45:801][732]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.45:818][733]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.45:834][734]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.45:850][735]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.46:034][746]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.46:051][747]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.46:068][748]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.47:768][850]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.47:784][851]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.47:801][852]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.52:635][142]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.52:651][143]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.52:668][144]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.53:968][222]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.53:985][223]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.54:001][224]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.54:018][225]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.54:035][226]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.54:052][227]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.54:068][228]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.54:084][229]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.54:084][229]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.54:884][277]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.54:901][278]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.54:917][279]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.56:784][391]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.56:801][392]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.56:817][393]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.58:002][464]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.58:018][465]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.58:035][466]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.59:001][524]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.59:018][525]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.59:034][526]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.34.59:051][527]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.34.59:051][527]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.00:352][605]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.00:368][606]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.00:385][607]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.01:218][657]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.01:235][658]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.01:251][659]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.01:268][660]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.01:287][661]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.02:468][732]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.02:487][733]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.02:502][734]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.02:518][735]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.02:535][736]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.02:551][737]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.02:786][751]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.02:802][752]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.02:818][753]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.02:834][754]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.02:851][755]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.05:618][921]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.05:634][922]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.05:651][923]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.10:685][225]LogBlueprintUserMessages: [Key_BP_2] Door Unlocked!
+[2021.02.20-21.35.12:120][311]LogBlueprintUserMessages: [Door_BP_2] Opening the door!
+[2021.02.20-21.35.12:137][312]LogBlueprintUserMessages: [Door_BP_2] Closing the door!
+[2021.02.20-21.35.12:153][313]LogBlueprintUserMessages: [Door_BP_2] Opening the door!
+[2021.02.20-21.35.13:237][378]LogBlueprintUserMessages: [LockDoorVolume_BP_2] Door Locked!
+[2021.02.20-21.35.13:702][406]LogBlueprintUserMessages: [Door_BP_2] Closing the door!
+[2021.02.20-21.35.14:502][454]LogBlueprintUserMessages: [LockDoorVolume_BP_2] Door Locked!
+[2021.02.20-21.35.15:985][543]LogBlueprintUserMessages: [LockDoorVolume_BP_2] Door Locked!
+[2021.02.20-21.35.17:769][650]LogBlueprintUserMessages: [LockDoorVolume_BP_2] Door Locked!
+[2021.02.20-21.35.19:469][752]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.19:486][753]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.19:501][754]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.20:402][808]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.20:419][809]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.20:435][810]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.21:452][871]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.21:468][872]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.21:487][873]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.21:502][874]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.21:519][875]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.21:536][876]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.22:252][919]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.22:269][920]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.22:285][921]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.26:399][166]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.26:416][167]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.26:432][168]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.30:234][396]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.30:250][397]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.30:266][398]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.31:750][487]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.31:767][488]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.31:783][489]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.33:050][565]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.33:066][566]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.33:083][567]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.33:400][586]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.33:417][587]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.35.33:433][588]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.35.34:342][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.35.34:342][640]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.35.34:342][640]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.02.20-21.35.34:342][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.35.34:349][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.20-21.35.34:351][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.35.34:377][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.35.34:378][640]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000010CB17287C0), frame # 5640
+[2021.02.20-21.35.34:378][640]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000010CCB45AC00), frame # 5640
+[2021.02.20-21.35.34:379][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.02.20-21.35.34:402][641]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.02.20-21.35.45:838][326]LogEditorViewport: Clicking on Actor (LMB): Door_BP_C (Door_BP2)
+[2021.02.20-21.35.50:392][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Door_BP.Door_BP
+[2021.02.20-21.35.50:637][597]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.02.20-21.35.51:648][597]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.20-21.35.51:707][598]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.20-21.35.53:877][717]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:1).
+[2021.02.20-21.35.58:956][ 21]LogSlate: Window 'Door_BP' being destroyed
+[2021.02.20-21.35.58:966][ 21]LogSlate: Window 'Door_BP' being destroyed
+[2021.02.20-21.35.58:968][ 21]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.20-21.35.58:968][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.36.09:128][624]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.20-21.36.09:849][624]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.721 s
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: 
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: Ensure condition failed: PlacementEditMode [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PlacementMode/Private/SPlacementModeTools.cpp] [Line: 606]
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: PlacementEditMode was null, but SPlacementModeTools is still accepting KeyDown events
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: Stack: 
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff801064609 UE4Editor-PlacementMode.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff80103ff85 UE4Editor-PlacementMode.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff81d80061b UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff81d86d561 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff81d860f16 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff875d27c25 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff875d15c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff875d2a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff875d117d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff8c8e4e858 USER32.dll!UnknownFunction []
+[2021.02.20-21.36.09:849][624]LogOutputDevice: Error: [Callstack] 0x00007ff8c8e4e299 USER32.dll!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff875d2bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff677f368c4 UE4Editor.exe!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff677f4ba7c UE4Editor.exe!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff677f4bb5a UE4Editor.exe!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff677f5e31d UE4Editor.exe!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff677f6145a UE4Editor.exe!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff8c73f7034 KERNEL32.DLL!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: [Callstack] 0x00007ff8c911d241 ntdll.dll!UnknownFunction []
+[2021.02.20-21.36.09:850][624]LogOutputDevice: Error: 
+[2021.02.20-21.36.09:857][624]LogStats:                SubmitErrorReport -  0.000 s
+[2021.02.20-21.36.11:802][624]LogStats:                    SendNewReport -  1.945 s
+[2021.02.20-21.36.11:802][624]LogStats:             FDebug::EnsureFailed -  2.674 s
+[2021.02.20-21.36.11:809][624]LogEditorViewport: Clicking on Actor (LMB): Door_BP_C (Door_BP2)
+[2021.02.20-21.36.14:591][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Door_BP.Door_BP
+[2021.02.20-21.37.31:454][312]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.20-21.38.07:500][323]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.07:508][323]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.07:514][323]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.07:519][323]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.07:537][324]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:030][349]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:038][349]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:043][349]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:047][349]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:064][350]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:079][351]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:095][352]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:115][353]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:805][392]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:813][392]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:818][392]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:823][392]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:839][393]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:852][394]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:869][395]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:886][396]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:902][397]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:919][398]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:936][399]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:952][400]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:969][401]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.08:986][402]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:002][403]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:018][404]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:035][405]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:052][406]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:069][407]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:085][408]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:102][409]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:119][410]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:136][411]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:153][412]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.09:172][413]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.38.46:233][588]BlueprintLog: New page: Compile Door_BP
+[2021.02.20-21.38.46:528][588]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2021.02.20-21.38.46:604][588]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.20-21.38.48:496][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.02.20-21.38.50:278][803]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.20-21.38.50:297][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.20-21.38.50:297][803]LogHMD: Initializing OVRPlugin session
+[2021.02.20-21.38.50:428][803]LogHMD: Allocating Oculus 3712 x 1872 rendertarget swapchain
+[2021.02.20-21.38.50:429][803]PIE: New page: PIE session: Sandbox (20 Feb 2021, 21:38:50)
+[2021.02.20-21.38.50:429][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.38.50:432][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002641s)
+[2021.02.20-21.38.50:433][803]LogAIModule: Creating AISystem for world Sandbox
+[2021.02.20-21.38.50:433][803]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000010D55CE9600), frame # 16803
+[2021.02.20-21.38.50:433][803]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000010D1067E980), frame # 16803
+[2021.02.20-21.38.50:434][803]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2021.02.20-21.38.50:434][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Sandbox.Sandbox to /Game/Maps/UEDPIE_0_Sandbox.Sandbox (0.004008s)
+[2021.02.20-21.38.50:469][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.02.20-21.38.50:472][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.20-21.38.50:472][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.20-21.38.50:472][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.20-21.38.50:472][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.20-21.38.50:472][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.20-21.38.50:472][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.20-21.38.50:472][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.20-21.38.50:472][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.20-21.38.50:473][803]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.20-21.38.50:473][803]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.20-21.38.50:478][803]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.20-21.38.50:478][803]LogAudioMixer: Display: 1: FrontRight
+[2021.02.20-21.38.50:496][803]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.20-21.38.50:496][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.20-21.38.50:496][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.20-21.38.50:496][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.20-21.38.50:496][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.20-21.38.50:509][803]LogInit: FAudioDevice initialized.
+[2021.02.20-21.38.50:519][803]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.20-21.38.50:521][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 60) at 2021.02.20-21.38.50
+[2021.02.20-21.38.50:521][803]LogWorld: Bringing up level for play took: 0.000957
+[2021.02.20-21.38.50:521][803]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.02.20-21.38.50:528][803]PIE: Server logged in
+[2021.02.20-21.38.50:529][803]PIE: Play in editor total start time 0.239 seconds.
+[2021.02.20-21.38.52:294][908]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.38.52:309][909]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.38.52:326][910]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.38.55:662][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.38.55:662][107]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.38.55:662][107]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.02.20-21.38.55:662][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.38.55:669][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.20-21.38.55:674][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.38.55:724][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.38.55:726][107]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000010D1067E980), frame # 17107
+[2021.02.20-21.38.55:726][107]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000010D55CE9600), frame # 17107
+[2021.02.20-21.38.55:729][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.20-21.38.55:755][108]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.02.20-21.39.03:364][540]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.03:372][540]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.03:376][540]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.03:380][540]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.03:395][541]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.03:410][542]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.03:427][543]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:454][644]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:462][644]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:466][644]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:472][644]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:487][645]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:502][646]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:518][647]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:534][648]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.05:553][649]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.031 Z=0.000
+[2021.02.20-21.39.07:472][756]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.20-21.39.08:154][776]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.20-21.39.22:952][619]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.20-21.39.37:662][464]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.37:670][464]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.37:674][464]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.37:679][464]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.37:690][465]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.37:694][465]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.37:709][466]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.37:726][467]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:104][489]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:112][489]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:117][489]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:121][489]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:130][490]LogPhysics: Warning: Scale for /Game/Maps/Sandbox.Sandbox:PersistentLevel.Door_BP2_2.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:134][490]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:150][491]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:166][492]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:182][493]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:199][494]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.38:217][495]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Door_BP_C_0.Widget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.02.20-21.39.43:305][787]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.20-21.39.43:323][787]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.20-21.39.43:326][787]LogPlayLevel: [PlayLevel] Compiling Door_BP before play...
+[2021.02.20-21.39.43:602][787]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.02.20-21.39.43:604][787]LogPlayLevel: PlayLevel: Blueprint regeneration took 279 ms (1 blueprints)
+[2021.02.20-21.39.43:604][787]LogHMD: Initializing OVRPlugin session
+[2021.02.20-21.39.43:734][787]LogHMD: Allocating Oculus 3712 x 1872 rendertarget swapchain
+[2021.02.20-21.39.43:735][787]PIE: New page: PIE session: Sandbox (20 Feb 2021, 21:39:43)
+[2021.02.20-21.39.43:735][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.39.43:738][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002571s)
+[2021.02.20-21.39.43:739][787]LogAIModule: Creating AISystem for world Sandbox
+[2021.02.20-21.39.43:739][787]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000010D5364EC00), frame # 19787
+[2021.02.20-21.39.43:739][787]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000010D22F9B880), frame # 19787
+[2021.02.20-21.39.43:739][787]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.02.20-21.39.43:739][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Sandbox.Sandbox to /Game/Maps/UEDPIE_0_Sandbox.Sandbox (0.003655s)
+[2021.02.20-21.39.43:773][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.02.20-21.39.43:774][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.20-21.39.43:774][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.20-21.39.43:774][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.20-21.39.43:774][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.20-21.39.43:774][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.20-21.39.43:775][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.20-21.39.43:775][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.20-21.39.43:775][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.20-21.39.43:775][787]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.20-21.39.43:775][787]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.20-21.39.43:779][787]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.20-21.39.43:780][787]LogAudioMixer: Display: 1: FrontRight
+[2021.02.20-21.39.43:796][787]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.20-21.39.43:796][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.20-21.39.43:796][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.20-21.39.43:797][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.20-21.39.43:797][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.20-21.39.43:809][787]LogInit: FAudioDevice initialized.
+[2021.02.20-21.39.43:831][787]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.20-21.39.43:832][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 60) at 2021.02.20-21.39.43
+[2021.02.20-21.39.43:832][787]LogWorld: Bringing up level for play took: 0.001069
+[2021.02.20-21.39.43:832][787]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.02.20-21.39.43:839][787]PIE: Server logged in
+[2021.02.20-21.39.43:840][787]PIE: Play in editor total start time 0.523 seconds.
+[2021.02.20-21.39.43:891][788]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.12:942][525]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.12:959][526]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.12:977][527]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.15:443][675]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.15:459][676]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.15:476][677]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.23:594][164]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.23:609][165]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.23:626][166]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.29:360][510]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.29:377][511]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.29:394][512]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.29:411][513]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.29:427][514]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.35:811][897]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.35:828][898]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.35:845][899]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.41:590][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.40.41:591][241]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.40.41:591][241]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.02.20-21.40.41:591][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.40.41:599][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.20-21.40.41:606][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.40.41:652][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.40.41:670][241]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000010D22F9B880), frame # 23241
+[2021.02.20-21.40.41:670][241]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000010D5364EC00), frame # 23241
+[2021.02.20-21.40.41:674][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.02.20-21.40.41:704][242]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.20-21.40.53:509][879]BlueprintLog: New page: Compile Door_BP
+[2021.02.20-21.40.53:657][879]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.02.20-21.40.55:440][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.02.20-21.40.56:796][ 59]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.02.20-21.40.57:503][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.20-21.40.57:524][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.20-21.40.57:524][ 98]LogHMD: Initializing OVRPlugin session
+[2021.02.20-21.40.57:649][ 98]LogHMD: Allocating Oculus 3712 x 1872 rendertarget swapchain
+[2021.02.20-21.40.57:650][ 98]PIE: New page: PIE session: Sandbox (20 Feb 2021, 21:40:57)
+[2021.02.20-21.40.57:650][ 98]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.40.57:653][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002435s)
+[2021.02.20-21.40.57:654][ 98]LogAIModule: Creating AISystem for world Sandbox
+[2021.02.20-21.40.57:654][ 98]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000010D4B5FB600), frame # 24098
+[2021.02.20-21.40.57:654][ 98]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000010D59296480), frame # 24098
+[2021.02.20-21.40.57:654][ 98]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2021.02.20-21.40.57:654][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Sandbox.Sandbox to /Game/Maps/UEDPIE_0_Sandbox.Sandbox (0.003506s)
+[2021.02.20-21.40.57:695][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.02.20-21.40.57:697][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.20-21.40.57:697][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.20-21.40.57:697][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.20-21.40.57:697][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.20-21.40.57:697][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.20-21.40.57:698][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.20-21.40.57:698][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.20-21.40.57:698][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.20-21.40.57:698][ 98]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.20-21.40.57:698][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.20-21.40.57:702][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.20-21.40.57:702][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.02.20-21.40.57:720][ 98]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.02.20-21.40.57:720][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.20-21.40.57:720][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.20-21.40.57:720][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.20-21.40.57:720][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.20-21.40.57:733][ 98]LogInit: FAudioDevice initialized.
+[2021.02.20-21.40.57:743][ 98]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.20-21.40.57:744][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 60) at 2021.02.20-21.40.57
+[2021.02.20-21.40.57:744][ 98]LogWorld: Bringing up level for play took: 0.000730
+[2021.02.20-21.40.57:744][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.02.20-21.40.57:751][ 98]PIE: Server logged in
+[2021.02.20-21.40.57:752][ 98]PIE: Play in editor total start time 0.234 seconds.
+[2021.02.20-21.40.58:738][157]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.40.58:755][158]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.40.58:772][159]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:433][617]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:449][618]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:466][619]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:534][623]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:550][624]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:567][625]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:584][626]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:600][627]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:617][628]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:633][629]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:650][630]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:667][631]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:683][632]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:703][633]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.06:717][634]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.06:735][635]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.07:368][673]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.07:383][674]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.07:400][675]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.07:417][676]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.07:434][677]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.07:450][678]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.07:467][679]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.07:484][680]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.07:484][680]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.08:484][740]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.08:502][741]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.08:517][742]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.09:749][816]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.09:767][817]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.09:784][818]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.10:550][864]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.10:567][865]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.10:583][866]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.12:966][  9]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.12:984][ 10]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.13:001][ 11]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.13:016][ 12]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.13:034][ 13]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.13:050][ 14]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.13:067][ 15]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.13:084][ 16]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.13:100][ 17]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.13:468][ 39]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.13:483][ 40]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.14:501][101]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.14:517][102]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.14:534][103]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.14:551][104]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.14:567][105]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.14:584][106]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.14:600][107]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.15:217][144]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.15:234][145]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.15:250][146]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.15:267][147]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.15:750][176]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.15:767][177]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.15:784][178]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.15:800][179]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.15:817][180]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.15:834][181]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.15:850][182]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.16:117][198]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.16:133][199]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.16:151][200]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.16:167][201]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.16:184][202]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.16:200][203]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.16:217][204]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.16:917][246]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.16:934][247]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.16:950][248]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.16:967][249]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.16:984][250]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.17:000][251]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.17:000][251]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.17:383][274]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.17:400][275]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.17:417][276]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.17:434][277]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.17:449][278]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.17:467][279]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.18:117][318]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.18:134][319]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.18:150][320]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.18:167][321]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.18:184][322]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.19:367][393]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.19:384][394]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.19:400][395]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.39:270][587]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.39:284][588]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.39:301][589]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.40:352][652]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.40:367][653]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.40:385][654]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.41:735][735]LogBlueprintUserMessages: [LockDoorVolume_BP_2] Door Locked!
+[2021.02.20-21.41.43:470][839]LogBlueprintUserMessages: [LockDoorVolume_BP_2] Door Locked!
+[2021.02.20-21.41.45:918][986]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.45:935][987]LogBlueprintUserMessages: [Door_BP2_2] Closing the door!
+[2021.02.20-21.41.45:951][988]LogBlueprintUserMessages: [Door_BP2_2] Opening the door!
+[2021.02.20-21.41.50:710][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.41.50:710][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Sandbox
+[2021.02.20-21.41.50:711][271]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.02.20-21.41.50:711][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.41.50:719][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.20-21.41.50:725][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.20-21.41.50:787][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.20-21.41.50:788][271]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000010D59296480), frame # 27271
+[2021.02.20-21.41.50:788][271]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000010D4B5FB600), frame # 27271
+[2021.02.20-21.41.50:791][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.20-21.41.53:536][271]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.20-21.41.53:536][271]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.02.20-21.41.53:536][271]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.02.20-21.41.53:541][271]LogWindows: Error: === Critical error: ===
+[2021.02.20-21.41.53:541][271]LogWindows: Error: 
+[2021.02.20-21.41.53:541][271]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp] [Line: 855] 
+[2021.02.20-21.41.53:541][271]LogWindows: Error: Rendering thread exception:
+[2021.02.20-21.41.53:541][271]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00010044
+[2021.02.20-21.41.53:541][271]LogWindows: Error: 
+[2021.02.20-21.41.53:541][271]LogWindows: Error: [Callstack] 0x00007ff820f9bc3d UE4Editor-Core.dll!FRotator::Quaternion() []
+[2021.02.20-21.41.53:541][271]LogWindows: Error: [Callstack] 0x00007ff81edcf381 UE4Editor-Engine.dll!FKAggregateGeom::GetAggGeom() []
+[2021.02.20-21.41.53:541][271]LogWindows: Error: [Callstack] 0x00007ff81b5ab8ea UE4Editor-UMG.dll!UWidgetComponent::RemoveWidgetFromScreen() []
+[2021.02.20-21.41.53:541][271]LogWindows: Error: [Callstack] 0x00007ff81b54cd0d UE4Editor-UMG.dll!UWidgetBlueprintLibrary::GetDynamicMaterial() []
+[2021.02.20-21.41.53:541][271]LogWindows: Error: [Callstack] 0x00007ff816ede0f3 UE4Editor-Renderer.dll!IScreenSpaceDenoiser::CreateUAVs() []
+[2021.02.20-21.41.53:541][271]LogWindows: Error: [Callstack] 0x00007ff816ecdf0b UE4Editor-Renderer.dll!FMeshMaterialShader::FMeshMaterialShader() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff816ee2b89 UE4Editor-Renderer.dll!FMeshMaterialShader::GetTypeLayout() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff816e857aa UE4Editor-Renderer.dll!FSceneViewState::Destroy() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff816e86e3c UE4Editor-Renderer.dll!FSceneViewState::Destroy() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff816e70a58 UE4Editor-Renderer.dll!FSceneViewState::Destroy() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff816e736bd UE4Editor-Renderer.dll!FSceneViewState::Destroy() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff820dd87d8 UE4Editor-Core.dll!FString::PrintfImpl() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff820dd8aa3 UE4Editor-Core.dll!FString::PrintfImpl() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff8760ef892 UE4Editor-RenderCore.dll!RenderUtilsInit() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff8760f53d4 UE4Editor-RenderCore.dll!RestoreGlobalShaderMap() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff8212c04db UE4Editor-Core.dll!FWindowsPlatformProcess::ResolveNetworkPath() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff8212b7eb0 UE4Editor-Core.dll!FWindowsPlatformMisc::GetVSComnTools() []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff8c73f7034 KERNEL32.DLL!UnknownFunction []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: [Callstack] 0x00007ff8c911d241 ntdll.dll!UnknownFunction []
+[2021.02.20-21.41.53:542][271]LogWindows: Error: 
+[2021.02.20-21.41.53:542][271]LogWindows: Error: 
+[2021.02.20-21.41.53:542][271]LogWindows: Error: 
+[2021.02.20-21.41.53:542][271]LogWindows: Error: 
+[2021.02.20-21.41.53:549][271]LogThreadingWindows: Error: Runnable thread RenderThread 12 crashed.
+[2021.02.20-21.41.53:549][271]LogWindows: Error: HandleError re-entered.
+[2021.02.20-21.41.53:549][271]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.02.20-21.41.53:549][271]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.02.20-21.41.53:554][271]Log file closed, 02/20/21 21:41:53
